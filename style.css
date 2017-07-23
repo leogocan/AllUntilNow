@@ -1,0 +1,47 @@
+h3 {
+	font-family: Arial;
+	color: Aqua;
+}
+	
+/* Uvijek mora na kraju iæi ";" */
+
+.list_inline {
+	display: inline;
+	max-width: 3px;
+	overflow: hidden;
+}
+
+#testni {
+	font-family: Raleway;
+	color: BlueViolet;
+	background-color: rgba(99, 21, 127, 0.5);
+}
+	
+.klasa1 {		/* može npr. p.klasa1 koja ureðuje samo paragrafe */
+	font-family: "Arial";
+	font-size: 1.82em; /* može biti px, em, % */
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline;
+	text-transform: lowercase;
+	text-align: center;
+}
+
+.slika {
+	max-height: 400px;
+	overflow: scroll;
+	border-radius: 70%
+}
+
+body{
+	background-image: url("https://i.ytimg.com/vi/o6r9SermInk/maxresdefault.jpg");
+}
+	
+* {
+	color: Red;
+	border: 1px solid black;
+	margin: 2px 4px 6px 8px
+}
+/* Zvjezdica je univerzalni selektor. */
+
+/* http://www.colors.commutercreative.com/grid/ */
