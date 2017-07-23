@@ -1,0 +1,5 @@
+http://www.ndpsoftware.com/git-cheatsheet.html
+
+https://stackoverflow.com/questions/4089430/how-can-i-determine-the-url-that-a-local-git-repository-was-originally-cloned-fr
+
+https://stackoverflow.com/questions/3924229/adding-existing-project-folders-to-the-project-explorer-in-eclipse
